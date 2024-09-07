@@ -12,7 +12,8 @@
 
 Des commands de Modération, jeux, mise à niveau, utilité. Protégez votre serveur des raids, configurez des déclencheurs de mots personnalisés, lancez les dés, recherchez des anime et consultez les graphiques de crypto-monnaie. Tout est intégré.
 
-Notre Site: https://kaya.nekohost.fr/
+**Notre Site:** [url](https://kaya.nekohost.fr/)
+**Serveur Support:** [url](http://discord.nekohost.fr/)
 
 # Installation
 
