@@ -31,8 +31,8 @@ module.exports = {
     }, 
     {
         name: `**${bot.emoji.developer}・Développeur :**\n`,
-        value: `> **Nom : <@820361590826205215> @ruwinou ❤️**\n` +
-        `> **ID :** 820361590826205215\n`
+        value: `> **Nom : <@601337312714031124> @ayka_667** ${bot.emoji.boost}\n` +
+        `> **ID :** 601337312714031124\n`
     },
     {
         name: `**📊・Statistiques du bot :**\n`,
